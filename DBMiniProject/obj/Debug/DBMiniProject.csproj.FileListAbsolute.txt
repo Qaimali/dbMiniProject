@@ -1,0 +1,14 @@
+c:\users\qaim ali siddiqui\documents\visual studio 2015\Projects\DBMiniProject\DBMiniProject\bin\Debug\DBMiniProject.exe.config
+C:\Users\Qaim ali Siddiqui\Documents\Visual Studio 2015\Projects\DBMiniProject\DBMiniProject\bin\Debug\DBMiniProject.exe
+C:\Users\Qaim ali Siddiqui\Documents\Visual Studio 2015\Projects\DBMiniProject\DBMiniProject\bin\Debug\DBMiniProject.pdb
+C:\Users\Qaim ali Siddiqui\Documents\Visual Studio 2015\Projects\DBMiniProject\DBMiniProject\obj\Debug\DBMiniProject.csprojResolveAssemblyReference.cache
+C:\Users\Qaim ali Siddiqui\Documents\Visual Studio 2015\Projects\DBMiniProject\DBMiniProject\obj\Debug\DBMiniProject.addProject.resources
+C:\Users\Qaim ali Siddiqui\Documents\Visual Studio 2015\Projects\DBMiniProject\DBMiniProject\obj\Debug\DBMiniProject.Properties.Resources.resources
+C:\Users\Qaim ali Siddiqui\Documents\Visual Studio 2015\Projects\DBMiniProject\DBMiniProject\obj\Debug\DBMiniProject.csproj.GenerateResource.Cache
+C:\Users\Qaim ali Siddiqui\Documents\Visual Studio 2015\Projects\DBMiniProject\DBMiniProject\obj\Debug\DBMiniProject.exe
+C:\Users\Qaim ali Siddiqui\Documents\Visual Studio 2015\Projects\DBMiniProject\DBMiniProject\obj\Debug\DBMiniProject.pdb
+C:\Users\Qaim ali Siddiqui\Documents\Visual Studio 2015\Projects\DBMiniProject\DBMiniProject\obj\Debug\DBMiniProject.AddStudent.resources
+C:\Users\Qaim ali Siddiqui\Documents\Visual Studio 2015\Projects\DBMiniProject\DBMiniProject\obj\Debug\DBMiniProject.addAdvisor.resources
+C:\Users\Qaim ali Siddiqui\Documents\Visual Studio 2015\Projects\DBMiniProject\DBMiniProject\obj\Debug\DBMiniProject.HomePage.resources
+C:\Users\Qaim ali Siddiqui\Documents\Visual Studio 2015\Projects\DBMiniProject\DBMiniProject\obj\Debug\DBMiniProject.MakeGroup.resources
+C:\Users\Qaim ali Siddiqui\documents\visual studio 2015\Projects\DBMiniProject\DBMiniProject\obj\Debug\DBMiniProject.Group.resources
